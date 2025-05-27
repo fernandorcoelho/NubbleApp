@@ -14,7 +14,7 @@ function App(): React.JSX.Element {
         Hello World!
       </Text>
       <Text
-        preset="headingLarge"
+        preset="headingMedium"
       >
         Hello World!
       </Text>

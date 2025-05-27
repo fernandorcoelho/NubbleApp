@@ -50,10 +50,10 @@ function getFontFamily(
       return $fontFamily.bold;
     case semiBold && italic:
       return $fontFamily.mediumItalic;
-    case italic:
-      return $fontFamily.italic;
     case semiBold:
       return $fontFamily.medium;
+    case italic:
+      return $fontFamily.italic;
     default:
       return $fontFamily.regular;
   }
