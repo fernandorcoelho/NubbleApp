@@ -10,7 +10,6 @@ function App(): React.JSX.Element {
     <SafeAreaView>
       <Text
         preset="headingLarge"
-        style={{ fontFamily: 'Satoshi-Black' }}
       >
         Hello World!
       </Text>
